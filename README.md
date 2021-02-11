@@ -56,12 +56,10 @@ relationship as you are.
     litigiousness or carelessness.
    
    
-
-
 ## The Unit
 
 OK, so the landlord didn't scare you off. Here are some things to check, based
-on room.
+on room. Bring a measuring tape.
 
 ### General
 
@@ -77,12 +75,32 @@ on room.
    them yell "HEY MAN!" How well did you hear it? If well, everyone who yells
    "HEY MAN!" at all hours of the night will be audible to you. Know this
    before you sign anything.
+5. Electricity Check
+   1. Inspect for outlet count. Many of the apartments in Manhattan date from the
+      time when the number of applicances was few beyond a tube-based radio for
+      checking "Little Orphan Annie." For those with phones and computers, this
+      might be a factor
+   2. Determine the availability / electricity model of the place. Many pre-war
+      apartments **still use fuses**. Do you know where to get fuses? Is the fuse-box
+      accessible / well-maintained?
+ 6. Water stains on ceiling. Look over your radiator covers where neighbors upstairs 
+    (i.e. in the same "stack") have their radiators too. Trapped moisture will lead to
+    bubbled paint / water stains. This is a concerning sign.
+
 
 ### Windows
 
 1. Check the windows for:
   1. Soundproof-ness
   2. Open / close-ability
+2. Validate the provision (or not, usually not) of window coverings. You're going to
+need to buy these.
+   * For each of the windows (you can stop after you have a clear picture) are the
+   windows precisely cut into the wall. In pre-wars these holes were often chaped
+   _by hand_. As a result a standard blind size **will not work**. You'll have to
+   get them custom. Measure top - middle - bottom. If the measurement is the same,
+   you have a precision cut window. Else...
+
 
 ### Bathroom
 
@@ -92,6 +110,8 @@ on room.
    your guests, your spouse are going to be dealing with that reality. Fix or
    abort.
 2. Shower pressure: Forceful? Instant? Hot?
+3. What's the ventilation system in the bathroom? Vent? Window?
+4. Does the bathroom have heating elements? What are they? What's their condition?
 
 ### Kitchen
 
@@ -111,6 +131,7 @@ on room.
    your ceiling and will collect on cabinets / cupboards and you will need to
    clean it regularly. Given the space constraints these spaces often have
    seasonal bakeware. You will have to degrease them on each use.
+4. Does the kitche3n have heating elements? What are they? What's their condition?   
 
 ## Guidelines
 
