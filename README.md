@@ -86,6 +86,29 @@ on room. Bring a measuring tape.
  6. Water stains on ceiling. Look over your radiator covers where neighbors upstairs 
     (i.e. in the same "stack") have their radiators too. Trapped moisture will lead to
     bubbled paint / water stains. This is a concerning sign.
+ 7. Doorway and Passageway Verification
+    1. Depending on your size, you my find that the doorways into the apartment and
+       within it might be uncomfortable. Additionally, consider other passageways
+       or architectural features) like a framing "pillar" around an entryway door.
+       Or, consider a small hallway into which a door might be recessed.       
+       As landlords cut more corners to carve more profits, the results can be small
+       inconveniences that rob you of joy.
+    2. Consider:
+       a very narrow bathroom door, with a springy doorstop behind it, and a "lever-"
+       style doorknob. Now play this scenario through: you open the bathrooom door
+       that's not much wider than you, the door encounters the stop and it's not,
+       therefore, _perfectly_ open.
+       This shaves some 5-8% off of the aperture width. Did you cound on that? You walk past in your fluffy white bathrobe when
+       its belt-loop runs smoothly and silently over the level doorknob. As you step past the door,
+       ***mother-fuc!*** you are snared, startled, and enraged as you figure out how
+       the heck you are no longer walking forward.
+    3. Same scenario as above, but in trying to avoid the belt-loop snare, you stub
+       or break a toe, catch the lever to your gut, etc. ***Small passages can make
+       you miserable.***
+    4. Also check the width of the entry (and whether it's framed by other passage-ways
+       or architectural features) and make sure that the door can accommodate moving
+       your stuff in! We didn't and discovered that neither our couch nor one sitting
+       chair _could even fit in the building_.
 
 
 ### Windows
